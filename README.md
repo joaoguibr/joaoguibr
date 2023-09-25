@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm João Guilherme</h1>
 <h3 align="center">Just a guy who likes technology</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaoguibr" alt="joaoguibr" /></a> </p>
-
 - 🌱 I’m currently learning **Django and SpringBoot**
 
 - 💬 Ask me about **Express, JavaScript, Python and Java**
